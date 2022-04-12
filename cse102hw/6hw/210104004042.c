@@ -13,7 +13,6 @@ int dice(void)
     }
     
     return a;
-
 }
 
 void printMatrix(char table[15][30])
