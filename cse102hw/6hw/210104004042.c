@@ -74,6 +74,7 @@ int main()
     int pos1x = 1, pos1y = 1, pos2x = 3, pos2y = 3;
 
     printMap(gameTable, pos1x, pos1y, pos2x, pos2y);
+    printf("What's going on here?");
 
     return 0;
 }
