@@ -4,10 +4,6 @@ int sayiTopla(int a,int b){
 	
 	int toplam = a+b;
 	return toplam;
-	
-	
-	
-	
 }
 
 int main (){
