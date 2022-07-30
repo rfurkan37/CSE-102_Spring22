@@ -14,6 +14,6 @@ run:
 
 clean :
 
-	@rm -rf main.o
+	@rm -rf 210104004042.o
 	@rm -rf main.out
 
