@@ -8,7 +8,7 @@ int add(int a, int b)
     return(a + b);
 }
 
-void anlamak(int topla(int, int))
+void basic(int topla(int, int))
 {
     int n = 4;
 printf("%3d", --n);
@@ -26,6 +26,6 @@ printf("%3d\n", x);
 
 int main(void)
 {
-    anlamak(add);
+    basic(add);
 
 }
