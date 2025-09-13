@@ -1,0 +1,75 @@
+# Compiled Object Files
+*.o
+*.obj
+
+# Executable Files
+*.exe
+*.out
+a.out
+main.out
+*.app
+
+# Debugging Files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static and Dynamic Libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Build Directories
+build/
+bin/
+obj/
+debug/
+release/
+
+# Archive Files (keep only source)
+*.zip
+*.tar.gz
+*.rar
+
+# Log Files
+*.log
+
+# Test Files (if any)
+test_*
+*_test
+
+# Coverage Files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling Files
+gmon.out
+
+# Core Dumps
+core
+core.*
+
+# Platform Specific
+*.stackdump
+
+# Backup Files
+*.bak
+*.backup
