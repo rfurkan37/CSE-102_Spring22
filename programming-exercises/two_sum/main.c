@@ -28,6 +28,10 @@ int main()
     int nums[4] = {2,7,11,15};
     int* bos;
 
-
+    int returnSize;
+    bos = twoSum(nums, 4, 9, &returnSize);
+    printf("%d %d", bos[0], bos[1]);
+    return 0;
+    
 
 }

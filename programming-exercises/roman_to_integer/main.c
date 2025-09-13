@@ -12,7 +12,7 @@ int romanToInt(char *s)
             res += 1;
             break;
         case 'V':
-            if (s[i - 1] == 'I')
+            if (i != 0 && s[i - 1] == 'I')
                 res += 3;
             else
                 res += 5;
